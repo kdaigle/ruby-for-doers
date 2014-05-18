@@ -7,6 +7,27 @@ as little pre-requisite knowledge as possible.
 Want to learn about the different data types? Hop right in.
 Looking for more information about how to use modules? Great!
 
+## First steps
+
+*I am still in the process of determining the best order and way to work through the examples.
+In the meantime, you can follow the steps below to try some of them out manually.*
+
+Clone this repository. (Optionally, you can fork this repository so you can play around more
+with the examples.)
+
+`git clone git@github.com:kdaigle/ruby-for-doers.git`
+
+Make sure you're in the directory you just cloned.
+
+`cd ruby-for-doers`
+
+Run any of the example files to see the output. Then, read the file to learn.
+
+`ruby hello-world.rb`
+
+I also highly recommend copying the code manually by reading from the site and typing it into
+a folder locally. It's a great way to learn by doing.
+
 ## Goals
 
 I'm trying to build the resource I would have wanted when I started with Ruby. My goals are:
