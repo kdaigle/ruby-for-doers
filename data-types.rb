@@ -10,6 +10,9 @@
 string = "Hello world"
 puts "'#{string}' is a #{string.class}"
 
+symbol = :animal
+puts "'#{symbol}' is a #{symbol.class}"
+
 integer = 1
 puts "'#{integer}' is a #{integer.class}"
 
@@ -21,6 +24,3 @@ puts "'#{array}' is a #{array.class}"
 
 hash = {"dog" => 1, "cat" => 2}
 puts "'#{hash}' is a #{hash.class}"
-
-symbol = :animal
-puts "'#{symbol}' is a #{symbol.class}"
