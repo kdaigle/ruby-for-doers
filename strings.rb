@@ -1,4 +1,4 @@
-#!/usr/ruby
+#!/usr/bin/env ruby
 
 # A String is a simple collection of characters. Here we assign the variable first_name to "Kyle".
 first_name = "Kyle"

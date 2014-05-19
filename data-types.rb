@@ -1,4 +1,4 @@
-#!/usr/ruby
+#!/usr/bin/env ruby
 
 # Duck Typing: if it walks like a duck, talks like a duck, it's a duck.
 # We use this in Ruby to mean that we don't have to tell Ruby "this is a string". Instead,
